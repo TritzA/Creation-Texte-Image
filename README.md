@@ -17,4 +17,5 @@ IDE : [Intellij education](https://www.jetbrains.com/fr-fr/idea/download/#sectio
 École : Polytechnique Montréal
 
 ## Représentation
+Texte final créé à l'aide des structure créées soit des rectangles et des éllipses.
 ![alt text](https://github.com/TritzA/CreationTexteImage/blob/master/image.jpg)
