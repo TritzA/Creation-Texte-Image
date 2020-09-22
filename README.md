@@ -16,4 +16,5 @@ IDE : [Intellij education](https://www.jetbrains.com/fr-fr/idea/download/#sectio
 
 École : Polytechnique Montréal
 
+## Représentation
 ![alt text](https://github.com/TritzA/CreationTexteImage/blob/master/image.jpg)
