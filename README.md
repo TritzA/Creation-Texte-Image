@@ -14,7 +14,7 @@ Interpréteur : [JDK-13.0.2](https://www.oracle.com/java/technologies/javase-jdk
 
 IDE : [Intellij education](https://www.jetbrains.com/fr-fr/idea/download/#section=windows)
 
-École : Polytechnique Montréal
+École : [Polytechnique Montréal](https://www.polymtl.ca)
 
 ## Représentation
 Texte final créé à l'aide des structure créées soit des rectangles et des éllipses.
