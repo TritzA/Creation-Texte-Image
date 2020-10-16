@@ -2,7 +2,7 @@
 
 Création de texte en image.
 
-Laboratoire : 1
+Laboratoire : 1/5
 
 Cours : INF2010 Structures de données et algorithmes
 
