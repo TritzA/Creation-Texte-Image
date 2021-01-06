@@ -4,7 +4,9 @@ Création de texte en image.
 
 Laboratoire : 1/5
 
-Cours : INF2010 Structures de données et algorithmes
+Cours : [INF2010 Structures de données et algorithmes](https://www.polymtl.ca/programmes/cours/structures-de-donnees-et-algorithmes)
+
+École : [Polytechnique Montréal](https://www.polymtl.ca)
 
 Partenaire : [Maxence Lefevre](https://github.com/Solonioka)
 
